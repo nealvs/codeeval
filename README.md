@@ -1,2 +1,2 @@
 # codeeval
-Code Eval Challenge Solutions
+Code Eval Challenge Solutions in Java
